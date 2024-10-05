@@ -1,6 +1,6 @@
 # Supplementary data for:
 
-## "Numerical modelling of lithosphere-asthenosphere interaction and intraplate deformation in the Gulf of Guinea"
+## Numerical modelling of lithosphere-asthenosphere interaction and intraplate deformation in the Gulf of Guinea, Almedia. et., al
 
 
 
